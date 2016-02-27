@@ -216,7 +216,7 @@ fieldset[disabled] .datepicker table tr td.today.focus {
 }
 .datepicker table tr td.range {
   color: #000000;
-  background-color: #EAF8FD;
+  background-color: #eeeeee;
   border-color: #bbbbbb;
   border-radius: 0;
 }
